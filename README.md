@@ -6,6 +6,7 @@
 * Python 3.7
 * Django 3.2
 * SQlite3
+* DRF
 
 ## Описание проекта
 
